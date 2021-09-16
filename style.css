@@ -11,6 +11,8 @@ body{
 h1{
     font-weight: bold;
     text-decoration: underline;
+    text-shadow:rgb(47, 47, 136) 2px 2px;
+    
 
 }
 h2{
@@ -25,5 +27,6 @@ div{
 footer{
    background-color: rgb(199, 186, 186);
    padding: 3px;
+ 
 
 }
